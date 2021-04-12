@@ -1,3 +1,12 @@
-# Basically esx_ktackle, but no ESX is required
+# Tackle Script
 
-Press SHIFT + E to tackle as a police
+Originally ESX_Tackle Rewrote By Badger To Function As A Standalone Resource
+
+Forked By Myself For Experimentation and Learning 
+
+Goals:
+- Improvements
+- Bug Fixes
+- New Features
+
+Changelog:
