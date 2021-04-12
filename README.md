@@ -11,3 +11,5 @@ Goals:
 
 Changelog:
 - Converted __resource.lua to fxmanifest.lua
+- Added Config For Keybinds
+- Cleaned Up Client Code
