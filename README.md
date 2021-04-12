@@ -10,3 +10,4 @@ Goals:
 - New Features
 
 Changelog:
+- Converted __resource.lua to fxmanifest.lua
