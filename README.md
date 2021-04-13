@@ -9,6 +9,7 @@ Goals:
 - Remove Console Messages
 - Notification When Tackled or Tackling
 - Fix Tackling When Dead
+- Cooldown For Tackling
 
 Changelog:
 - Converted __resource.lua to fxmanifest.lua
