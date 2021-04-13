@@ -10,7 +10,7 @@ local isRagdoll					= false
 
 
 -- Functions Start
-function ShowAboveRadarMessage(message)
+function tcklenotif(message)
 	SetNotificationTextEntry("STRING")
 	AddTextComponentString(message)
 	DrawNotification(0,1)
@@ -107,6 +107,7 @@ Citizen.CreateThread(function()
 			if distance ~= -1 and distance <= Config.TackleDistance and not isTackling and not isGettingTackled and not IsPedInAnyVehicle(GetPlayerPed(-1)) and not IsPlayerDead(GetPlayerPed(-1)) and not IsPedInAnyVehicle(GetPlayerPed(closestPlayer)) and not IsPlayerDead(GetPlayerPed(closestPlayer)) then
 				isTackling = true
 				lastTackleTime = GetGameTimer()
+				tcklenotif("You Tackled" .. GetPlayerName(closestPlayer))
 
 				TriggerServerEvent('esx_kekke_tackle:tryTackle', GetPlayerServerId(closestPlayer))
 			end
