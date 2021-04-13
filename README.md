@@ -12,8 +12,6 @@ Goals:
 - ✔️ Fix Tackling When Dead
 - ✔️ Fix Tackling Dead Players
 - Cooldown For Tackling
-
-Changelog:
-- Converted __resource.lua to fxmanifest.lua
-- Added Config For Keybinds
-- Cleaned Up Client Code
+- ✔️ Convert __resource.lua to fxmanifest.lua
+- ✔️ Add Config For Keybinds
+- ✔️ Clean Up Client Code
