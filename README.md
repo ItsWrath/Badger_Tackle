@@ -10,7 +10,6 @@ Goals:
 - Notification When Tackled or Tackling
 - ✔️ Fix Tackling When Dead
 - ✔️ Fix Tackling Dead Players
-- ✔️ Fix Tackling While Being Tackled
 - Cooldown For Tackling
 
 Changelog:
