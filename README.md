@@ -5,9 +5,10 @@ Originally ESX_Tackle Rewrote By Badger To Function As A Standalone Resource
 Forked By Myself For Experimentation and Learning 
 
 Goals:
-- Improvements
-- Bug Fixes
-- New Features
+- Add Ace Permissions
+- Remove Console Messages
+- Notification When Tackled or Tackling
+- Fix Tackling When Dead
 
 Changelog:
 - Converted __resource.lua to fxmanifest.lua
