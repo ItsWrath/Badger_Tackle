@@ -7,7 +7,8 @@ Forked By Myself For Experimentation and Learning
 Goals:
 - Add Ace Permissions
 - ✔️ Remove Console Messages
-- Notification When Tackled or Tackling
+- ✔️ Notification When Tackling
+- Notification When Being Tackled
 - ✔️ Fix Tackling When Dead
 - ✔️ Fix Tackling Dead Players
 - Cooldown For Tackling
