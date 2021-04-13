@@ -9,6 +9,7 @@ Goals:
 - ✔️ Remove Console Messages
 - Notification When Tackled or Tackling
 - ✔️ Fix Tackling When Dead
+- ✔️ Fix Tackling Dead Players
 - Cooldown For Tackling
 
 Changelog:
