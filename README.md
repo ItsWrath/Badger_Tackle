@@ -6,7 +6,7 @@ Forked By Myself For Experimentation and Learning
 
 Goals:
 - Add Ace Permissions
-- Remove Console Messages
+- ✔️ Remove Console Messages
 - Notification When Tackled or Tackling
 - Fix Tackling When Dead
 - Cooldown For Tackling
